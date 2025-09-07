@@ -8,13 +8,10 @@ The goal is to provide insights into top import categories, trading partners, an
 
 The dashboard highlights:
 
-Total imports (in BD)
-
-Top contributing countries
-
-Import trends across years
-
-Leading categories and subcategories driving imports
+1. Total imports (in BD)
+2. Top contributing countries
+3. Import trends across years
+4. Leading categories and subcategories driving imports
 
 
 
@@ -35,3 +32,14 @@ Import Value (BD) – total value in Bahraini Dinars
 Quantity / Weight – volume of imported goods
 
 Country – origin of imports
+
+
+### Analysis
+The dashboard was designed to answer the following:
+1. Total Import
+2. Top county
+3. Top category
+4. Top subcategoty
+5. Import Change overtime
+6. Commodities dominte imports
+
